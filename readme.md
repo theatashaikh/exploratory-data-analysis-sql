@@ -292,6 +292,7 @@ Output:
 min_sale | max_sale | sale_range | avg_sale
 ---------|----------|------------|---------
 99     | 2495    | 2396   | 709
+
 Insight:
 
 - Sales range from 99 to 2495.
